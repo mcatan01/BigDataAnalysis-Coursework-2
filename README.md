@@ -4,7 +4,7 @@ Grade: 100 / 100
 
 Assignment 2 of the module Big Data Analysis:
 
-Use of basic R functions to explore data, data analysis in R - Supervised Learning
+Use of basic R functions to explore data, data analysis in R - Unsupervised Learning
 
 # Files
 
